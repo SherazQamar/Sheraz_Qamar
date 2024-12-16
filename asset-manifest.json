@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Sheraz_Qamar/static/css/main.a5d93b83.css",
-    "main.js": "/Sheraz_Qamar/static/js/main.acfd4577.js",
+    "main.js": "/Sheraz_Qamar/static/js/main.391bd4fd.js",
     "static/media/luxuri1.png": "/Sheraz_Qamar/static/media/luxuri1.e718155eab9000cd11bb.png",
     "static/media/logomoto1.png": "/Sheraz_Qamar/static/media/logomoto1.cb66b17a925e2085cbe3.png",
     "static/media/muyasr1.png": "/Sheraz_Qamar/static/media/muyasr1.0abf6c1751efe74e21ec.png",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.a5d93b83.css",
-    "static/js/main.acfd4577.js"
+    "static/js/main.391bd4fd.js"
   ]
 }
