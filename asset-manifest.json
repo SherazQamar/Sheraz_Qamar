@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Sheraz_Qamar/static/css/main.a5d93b83.css",
+    "main.js": "/Sheraz_Qamar/static/js/main.43293c61.js",
+    "static/media/luxuri1.png": "/Sheraz_Qamar/static/media/luxuri1.e718155eab9000cd11bb.png",
+    "static/media/logomoto1.png": "/Sheraz_Qamar/static/media/logomoto1.cb66b17a925e2085cbe3.png",
+    "static/media/muyasr1.png": "/Sheraz_Qamar/static/media/muyasr1.0abf6c1751efe74e21ec.png",
+    "static/media/nft1.png": "/Sheraz_Qamar/static/media/nft1.b06a8fe279423be48d8d.png",
+    "static/media/r1.png": "/Sheraz_Qamar/static/media/r1.f77091ef76b17691a960.png",
+    "static/media/wd1.png": "/Sheraz_Qamar/static/media/wd1.974bd7689c06736800b9.png",
+    "static/media/1.webp": "/Sheraz_Qamar/static/media/1.f7a4eab879e3a592e708.webp",
+    "static/media/muyasradmin1.png": "/Sheraz_Qamar/static/media/muyasradmin1.ce481e521555f5463fce.png",
+    "static/media/autoigdm1.png": "/Sheraz_Qamar/static/media/autoigdm1.cff3d5120fd045a7b6e8.png",
+    "static/media/di2.png": "/Sheraz_Qamar/static/media/di2.25c4bc28722d03bb3e2a.png",
+    "static/media/aws1.png": "/Sheraz_Qamar/static/media/aws1.c59325533b436cac1ba1.png",
+    "static/media/hms1.png": "/Sheraz_Qamar/static/media/hms1.e56770d95cfe6bc84086.png",
+    "static/media/raven1.png": "/Sheraz_Qamar/static/media/raven1.41e17412afbfe6442f30.png",
+    "index.html": "/Sheraz_Qamar/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.a5d93b83.css",
+    "static/js/main.43293c61.js"
+  ]
+}
